@@ -1,4 +1,4 @@
-# Deployment Linke:
+# Deployment Link:
  https://react-theme-switcher-swart.vercel.app/
 
 # Getting Started with Create React App
